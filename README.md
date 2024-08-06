@@ -15,3 +15,12 @@ This project performs sentiment analysis and visualization on social media data 
 ```sh
 git clone https://github.com/theanilpaneru/PRODIGY_DS_04.git
 cd PRODIGY_DS_04
+```
+2. **Install the required packages:**
+```sh
+pip install -r requirements.txt
+```
+3. **Open the Jupyter Notebook:**
+```sh
+jupyter notebook Sentiment_Analysis.ipynb
+```
